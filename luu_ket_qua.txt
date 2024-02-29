@@ -1,0 +1,30 @@
+Nguyen Dac Long
+20206291
+Mi2 01 k65
+C D C C C 
+C D B A C 
+6.0
+Nguyễn Đắc Long
+20206291
+MI2 01 K65
+C C B C B D A 
+C C B C B D A 
+10.01
+Nguyễn Đắc Long
+20206291
+MI2 01 K65
+A A C B C 
+A A C B C 
+10.0
+Nguyễn Đắc Long
+20200001
+MI2 01 K65
+A A B A A 
+B B A A C 
+2.0
+Nguyễn Đắc Long
+20206291
+Mi2 01 K65
+D D D D A 
+D C A B B 
+2.0
